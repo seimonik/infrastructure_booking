@@ -1,0 +1,1 @@
+docker-compose -p infrastructure_booking up -d
